@@ -1,0 +1,3 @@
+1. Split code into components.
+
+2. What state do we need and where should it live?

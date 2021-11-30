@@ -1,0 +1,19 @@
+.word {
+  display: flex;
+  position: absolute;
+  bottom: -5.8rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.letter {
+  border-bottom: 3px solid #ffa2ab;
+  display: inline-flex;
+  font-size: 1.875rem;
+  align-items: center;
+  justify-content: center;
+  margin: 0 5px;
+  padding: 0.5rem 1.5rem;
+  height: 1.8rem;
+  width: 0.5rem;
+}
